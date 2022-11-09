@@ -1,4 +1,4 @@
-# CS50 Term Project - Boid Simulation
+# Unity Boids! - Boid Simulation
 
 A Unity Boid Simulation that models real world flocking behaviour, built using Unity 3D.
 
