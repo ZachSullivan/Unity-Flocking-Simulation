@@ -1,4 +1,4 @@
-# Unity Boids! - Boid Simulation
+# Unity Boids! - A Behavioral Modeling Simulation
 
 A Boid Simulation that models real world flocking behaviour, built using Unity 3D. Not familiar with Boids? [Get started here](http://www.red3d.com/cwr/boids/)!
 
