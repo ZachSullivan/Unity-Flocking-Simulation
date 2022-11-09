@@ -23,7 +23,7 @@ Once Unity is installed on your machine, create a new Project.
 With the new project open, navigate to "Assets > Import Package Custom package".
 
 ```
-Included in this project submission is a unity package file named BoidSim Source Code.unitypackage
+Included in this project is a unity package file named BoidSim Source Code.unitypackage
 ```
 
 In the Custom package import screen, navigate to the downloaded Boid Simulation project directory.
